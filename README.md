@@ -1,7 +1,3 @@
-Absolutely! Here's a well-structured `README.md` for your GitHub repository demonstrating **JUnit 5 annotations** (`@Test`, `@BeforeEach`, `@AfterEach`, `@BeforeAll`, `@AfterAll`, `@Disabled`, `@DisplayName`, `Assertions.assertThrows`, etc.) using a `StudentService` example:
-
----
-
 ## 📘 JUnit 5 Tutorial with StudentService
 
 This project demonstrates **JUnit 5 core features** using a simple `StudentService` class. It covers key testing concepts like lifecycle methods, exception testing, display names, and disabling tests.
